@@ -5,7 +5,7 @@ diff.txt
 __pycache__
 .pytest_cache
 pytest-cache-files-54si3fqs
-
+__pycache__/
 
 # Logs
 logs
