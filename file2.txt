@@ -1,0 +1,5 @@
+Hello world!!!
+The text of the second file
+Мкр 1 CI/CD Дергільов
+Унікальний рядок file2
+Python, JavaScript, C#
