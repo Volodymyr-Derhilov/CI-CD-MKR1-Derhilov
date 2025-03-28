@@ -5,7 +5,17 @@ diff.txt
 __pycache__
 .pytest_cache
 pytest-cache-files-54si3fqs
-__pycache__/
+
+
+# pytest cache
+.pytest_cache/
+pytest-cache-files-*
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
 
 # Logs
 logs
