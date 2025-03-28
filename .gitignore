@@ -2,6 +2,11 @@
 same.txt
 diff.txt
 
+__pycache__
+.pytest_cache
+pytest-cache-files-54si3fqs
+
+
 # Logs
 logs
 *.log

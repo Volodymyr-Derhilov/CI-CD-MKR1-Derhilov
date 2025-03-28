@@ -1,5 +1,5 @@
 import pytest
-from main import process_files
+from mkr.main import process_files
 
 
 @pytest.fixture
